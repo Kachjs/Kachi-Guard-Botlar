@@ -1,1 +1,27 @@
 
+{
+    "kachi": "717709392119857203",
+    "owner": ["717709392119857203","717709392119857203"],
+    "prefix": "!",
+    "mainbots": {
+        "game": "Kachi 💙 Miédo",
+        "type": "COMPETING",
+        "status": "idle"
+    },
+    "helperbots": {
+        "game": "Kachi 💙 Miédo",
+        "type": "COMPETING",
+        "status": "idle"
+    },
+    "footer": "Kachi 💙 Miédo",
+    "emojis": {
+        "onay": "👍",
+        "notr": "🤳",
+        "red": "👎"
+    },
+    "guildID": "921500861987975248",
+    "voiceChannel": "921511387333820516",
+    "booster": "Booster İD Gir",
+    "jail": "Jail Yiyen Kısının Rol İd Gir",
+    "url": "discord.gg/1843"
+}
