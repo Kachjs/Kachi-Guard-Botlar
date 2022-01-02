@@ -1,1 +1,13 @@
 
+{ 
+    "serverGuard": true,
+    "channelGuard": true,
+    "roleGuard": true,
+    "banGuard": true,
+    "kickGuard": true,
+    "webHookGuard": true,
+    "emojiGuard": true,
+     "botAddGuard": true,
+    "memberGuard": true,
+     "urlGuard": true 
+    }
