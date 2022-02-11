@@ -2,7 +2,7 @@
   "name": "kachi-new-guard",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "kachi.js",
   "scripts": {
     "start": "node kachi.js"
   },
